@@ -62,7 +62,7 @@ apt install git python -y && git clone https://github.com/KasRoudra/k-fuscator &
 
 ### Credits: <a href="https://github.com/H3LLO-H4CK3R-2/Bash-Encrypt">H3LL0-H4CK3R</a> and <a href="https://github.com/wodxgod/Simple-obfuscator">WodxGod</a> and <a href="https://github.com/chris-rands/emojify">Chris-Rands</a> 
 
-## [+] Find Me on :
+## [+] Find Me On :
 <ul>
 <li><a href="https://facebook.com/KasRoudra"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/facebook.png" alt="facebook" width="20px" height="20px"></a></li>
 <li><a href="https://m.me/KasRoudra"><img src="https://github.com/KasRoudra/kasweb/raw/main/assets/messenger.png" alt="messenger" width="20px" height="20px"></a></li>
